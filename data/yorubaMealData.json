@@ -1,0 +1,233 @@
+{
+    "Akara and Pap + skimmed milk, little or 1 sugar cube.": {
+        "name": "Akara and Pap + skimmed milk, little or 1 sugar cube.",
+        "CalorieContent": 500,
+        "Carbs": 15,
+        "Proteins": 10,
+        "Fats": 6,
+        "DietaryFiber":12,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Moin-moin + fish and Oat with skimmed milk.": {
+        "name": "Moin-moin + fish and Oat with skimmed milk.",
+        "CalorieContent": 480,
+        "Carbs": 10,
+        "Proteins": 13,
+        "Fats": 9,
+        "DietaryFiber":15 ,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Eba + fish okro soup.": {
+        "name": "Eba + fish okro soup.",
+        "CalorieContent": 500,
+        "Carbs": 12,
+        "Proteins": 15,
+        "Fats": 13,
+        "DietaryFiber":18,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Eba + water leaf vegetable soup with goat meat.": {
+        "name": "Eba + water leaf vegetable soup with goat meat.",
+        "CalorieContent": 505,
+        "Carbs": 12,
+        "Proteins": 15,
+        "Fats": 15,
+        "DietaryFiber":22,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Amala + gbegiri & ewedu with goat meat.": {
+        "name": "Amala + gbegiri & ewedu with goat meat.",
+        "CalorieContent": 510,
+        "Carbs": 15,
+        "Proteins": 25,
+        "Fats": 19,
+        "DietaryFiber":20,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Ewa Agoyin + Fish stew with goat meat.": {
+        "name": "Ewa Agoyin + Fish stew with goat meat.",
+        "CalorieContent": 550,
+        "Carbs": 12,
+        "Proteins": 25,
+        "Fats": 35,
+        "DietaryFiber":7,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Native jollof rice (Erisi Eyin) + boiled egg/fish and slices of cucumber.": {
+        "name": "Native jollof rice (Erisi Eyin) + boiled egg/fish and slices of cucumber.",
+        "CalorieContent": 560,
+        "Carbs": 11,
+        "Proteins": 26,
+        "Fats": 29,
+        "DietaryFiber":12,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Peppered goat meat stew (Asun) + boiled plantain. (the plantains should follow portion sizes)": {
+        "name": "Peppered goat meat stew (Asun) + boiled plantain. (the plantains should follow portion sizes)",
+        "CalorieContent": 545,
+        "Carbs": 9,
+        "Proteins": 29,
+        "Fats": 25,
+        "DietaryFiber":8,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Pounded yam + efo riro with fish.": {
+        "name": "Pounded yam + efo riro with fish.",
+        "CalorieContent": 550,
+        "Carbs": 20,
+        "Proteins": 25,
+        "Fats": 9,
+        "DietaryFiber":19,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Catfish pepper soup + pap.": {
+        "name": "Catfish pepper soup + pap.",
+        "CalorieContent": 490,
+        "Carbs": 8,
+        "Proteins": 25,
+        "Fats": 12,
+        "DietaryFiber":7,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Ikokore +  beef.": {
+        "name": "Ikokore +  beef.",
+        "CalorieContent": 550,
+        "Carbs": 20,
+        "Proteins": 20,
+        "Fats": 19,
+        "DietaryFiber":23,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Yam porridge + vegetable soup and fish.": {
+        "name": "Yam porridge + vegetable soup and fish.",
+        "CalorieContent": 525,
+        "Carbs": 30,
+        "Proteins": 27,
+        "Fats": 13,
+        "DietaryFiber":25,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Pounded yam + Igbin (peppered snails) stew": {
+        "name": "Pounded yam + Igbin (peppered snails) stew",
+        "CalorieContent": 520,
+        "Carbs": 20,
+        "Proteins": 22,
+        "Fats": 19,
+        "DietaryFiber":25,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Eba + Igbin (peppered snails) stew": {
+        "name": "Eba + Igbin (peppered snails) stew",
+        "CalorieContent": 560,
+        "Carbs": 13,
+        "Proteins": 25,
+        "Fats": 25,
+        "DietaryFiber":12,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Egbo (mashed cooked corn) + beans and meat stew.": {
+        "name": "Egbo (mashed cooked corn) + beans and meat stew.",
+        "CalorieContent": 535,
+        "Carbs": 15,
+        "Proteins": 30,
+        "Fats": 15,
+        "DietaryFiber":25,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Ekuru + eko or agidi.": {
+        "name": "Ekuru + eko or agidi.",
+        "CalorieContent": 490,
+        "Carbs": 15,
+        "Proteins": 5,
+        "Fats": 15,
+        "DietaryFiber":7,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Semo + ogbono soup with goat meat.": {
+        "name": "Semo + ogbono soup with goat meat.",
+        "CalorieContent": 550,
+        "Carbs": 20,
+        "Proteins": 30,
+        "Fats": 15,
+        "DietaryFiber":10,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Potato fufu + assorted fish okro soup.": {
+        "name": "Potato fufu + assorted fish okro soup.",
+        "CalorieContent": 500,
+        "Carbs": 20,
+        "Proteins": 25,
+        "Fats": 15,
+        "DietaryFiber":30,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Boiled yam + vegetable soup.": {
+        "name": "Boiled yam + vegetable soup.",
+        "CalorieContent": 480,
+        "Carbs": 15,
+        "Proteins": 3,
+        "Fats": 10,
+        "DietaryFiber":25,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Unripe plantain porridge + vegetable and peppered dried fish sauce.": {
+        "name": "Unripe plantain porridge + vegetable and peppered dried fish sauce.",
+        "CalorieContent": 550,
+        "Carbs": 25,
+        "Proteins": 3,
+        "Fats": 20,
+        "DietaryFiber":15,
+        "Pairings": [
+            ""
+          ]
+    },
+    "Dodo + 1 fried egg omelet.": {
+        "name": "Dodo + 1 fried egg omelet.",
+        "CalorieContent": 485,
+        "Carbs": 10,
+        "Proteins": 32,
+        "Fats": 25,
+        "DietaryFiber":12,
+        "Pairings": [
+            ""
+          ]
+    }
+}

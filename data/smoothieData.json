@@ -1,0 +1,53 @@
+{
+    "Slimming green refresh": {
+        "name": "Slimming green refresh",
+        "Ingredients": ["Cucumber", "Pineapple", "Green apple", "Ginger", "Ugu leaves", "Watermelon", "Lemon juice"],
+        "Preparation": {
+            "1": "Wash all fruits and vegetables thoroughly",
+            "2": "Cut cucumber into small chunks",
+            "3": "Slice green apple",
+            "4": "Peel and chop ginger",
+            "5": "In a blender, combine cucumber chunks, pineapple chunks, green apple slices, and ginger pieces; blend",
+            "6": "Add ugu leaves, watermelon; blend again",
+            "7": "Squeeze lemon juice; blend once more",
+            "8": "Stir before serving; strain if desired, leaving some fiber"
+        },
+        "Benefits": "Revitalize your weight loss routine with this hydrating and fiber-rich blend. Slimming Green Refresh, featuring cucumber, pineapple, green apple, ginger, ugu leaves, watermelon, and lemon juice, offers a delightful and nutritious boost to your weightloss/wellness journey.Enjoy a cup of Slimming Green Refresh before bedtime for added benefit"
+    },
+    "Refreshing Green Zing Smoothie": {
+        "name": "Refreshing Green Zing Smoothie",
+        "Ingredients": ["Half green apple", "Half cucumber", "Half lemon or lime", "1 inch of ginge", "Ugu leaves (substitute for celery leaves)"],
+        "Preparation": {
+            "1": "Add half a cup of water to the blender",
+            "2": "Cut apple, green apple, and cucumber into pieces; add to the blender",
+            "3": "Blend until smooth",
+            "4": "Squeeze half a lemon into the blender",
+            "5": "Add ginger",
+            "6": "Use ugu leaves if celery leaves unavailable",
+            "7": "Blend until smooth"
+        },
+        "Benefits": "Elevate wellness with this bedtime blend of cucumber, mint leaves, spinach, green apple, and lime juice for flavor and nutrients. Adjust quantities to taste and dietary needs. Enjoy a cup of Refreshing Green Zing Smoothie before bed time"
+    },
+    "Golden Spice Slimmer": {
+        "name": "Golden Spice Slimmer",
+        "Ingredients": ["Fresh ginger (about 1 inch, peeled and sliced)", "Fresh turmeric (about 1 inch, peeled and sliced)", "1 medium-sized avocado (about 200g)", "1 cup of spinach", "1 medium-sized cucumber", "1 tablespoon of chia seeds", "1 tablespoon of flaxseeds", "1 teaspoon of honey (optional, for sweetness)", "1 cup of water or coconut water (optional) You can use a cup of water", "Ice cubes (optional)"],
+        "Preparation": {
+            "1": "Blend these ingredients together for a refreshing and nutritious weight loss smoothie packed with antioxidants, healthy fats, and fiber. Adjust the quantities based on your taste preferences and dietary and weight loss goals"
+        },
+        "Benefits": "Golden Spice Slimmer is not only a flavorful beverage but also boasts anti-inflammatory properties from turmeric and ginger. The combination of spices supports your weight loss and wellness journey while providing a delightful taste experience.Take a cup of Golden Spice Slimmer last thing before bedtime. Enjoy!"
+    },
+    "Chia Seed Detox Drink": {
+        "name": "Chia Seed Detox Drink",
+        "Ingredients": ["1 tablespoon chia seeds", "1 cup water", "1 tablespoon lemon juice (avoid if you have stomach ulcers)", "1 teaspoon honey (optional)", "Sliced fruits (e.g., strawberries, cucumber, mint leaves) for flavor"],
+        "Preparation": {
+            "1": "Mix chia seeds with water in a glass. Stir well and let it sit for 10-15 minutes until it forms a gel-like consistency.",
+            "2": "Squeeze fresh lemon juice into the chia gel",
+            "3": "Add honey for sweetness if desired",
+            "4": "Stir the mixture thoroughly to combine the chia gel with added flavors.",
+            "5": "Place the drink in the refrigerator for at least 30 minutes to chil",
+            "6": "Before serving, you could add sliced fruits like strawberries or cucumber, etc to enhance flavor and add extra nutrients",
+            "7": "Stir the drink again before consuming and savor your refreshing chia seed detox drink!"
+        },
+        "Benefits": "Hydrating and fiber-rich, this drink supports weight loss by inducing a feeling of fullness. The healthy fats from chia seeds contribute to overall well-being.Drink a cup of Chia Seed Detox Drink before bedtime for a faster weight loss. Enjoy the delightful taste and nourish your body!"
+    }
+}

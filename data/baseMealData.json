@@ -1,0 +1,870 @@
+{
+  "Boiled Yam": {
+    "name": "Boiled Yam",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 150,
+    "Carbs": 47,
+    "Proteins": 3,
+    "Fats": 0.5,
+    "DietaryFiber": 7,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Fried Yam": {
+    "name": "Fried Yam",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 200,
+    "Carbs": 57,
+    "Proteins": 3,
+    "Fats": 0.5,
+    "DietaryFiber": 7,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Airfried Yam": {
+    "name": "Airfried Yam",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 200,
+    "Carbs": 57,
+    "Proteins": 3,
+    "Fats": 0.5,
+    "DietaryFiber": 9,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Yam Porridge": {
+    "name": "Yam Porridge",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 290,
+    "Carbs": 43,
+    "Proteins": 4,
+    "Fats": 15,
+    "DietaryFiber": 4,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Cooked Potatoes": {
+    "name": "Cooked Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 200,
+    "Carbs": 50,
+    "Proteins": 4,
+    "Fats": 0.5,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Fried Potatoes": {
+    "name": "Fried Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 45,
+    "Proteins": 3,
+    "Fats": 20,
+    "DietaryFiber": 4,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Airfried Potatoes": {
+    "name": "Airfried Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 45,
+    "Proteins": 3,
+    "Fats": 20,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Grilled Potatoes": {
+    "name": "Grilled Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 200,
+    "Carbs": 40,
+    "Proteins": 3,
+    "Fats": 1,
+    "DietaryFiber": 5,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Steamed Potatoes": {
+    "name": "Steamed Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 230,
+    "Carbs": 55,
+    "Proteins": 4,
+    "Fats": 0.4,
+    "DietaryFiber": 7,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Sauteed Potatoes": {
+    "name": "Sauteed Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 53,
+    "Proteins": 3,
+    "Fats": 6,
+    "DietaryFiber": 7,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Cooked Irish Potatoes": {
+    "name": "Cooked Irish Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 225,
+    "Carbs": 51,
+    "Proteins": 5,
+    "Fats": 0.5,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Fried Irish Potatoes": {
+    "name": "Fried Irish Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 70,
+    "Proteins": 5,
+    "Fats": 18,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Grilled Irish Potatoes": {
+    "name": "Grilled Irish Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 230,
+    "Carbs": 50,
+    "Proteins": 5,
+    "Fats": 0.5,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Sauteed Irish Potatoes": {
+    "name": "Sauteed Irish Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 50,
+    "Proteins": 5,
+    "Fats": 10,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Steamed Irish Potatoes": {
+    "name": "Steamed Irish Potatoes",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 230,
+    "Carbs": 50,
+    "Proteins": 5,
+    "Fats": 0.5,
+    "DietaryFiber": 6,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Cooked Plantains": {
+    "name": "Cooked Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 120,
+    "Carbs": 20,
+    "Proteins": 0.7,
+    "Fats": 2,
+    "DietaryFiber": 3,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Fried Plantains": {
+    "name": "Fried Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 230,
+    "Carbs": 40,
+    "Proteins": 2,
+    "Fats": 10,
+    "DietaryFiber": 3,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Airfried Plantain": {
+    "name": "Airfried Plantain",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 220,
+    "Carbs": 100,
+    "Proteins": 32,
+    "Fats": 12,
+    "DietaryFiber": 16,
+    "Pairings": [
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Grilled Plantains": {
+    "name": "Grilled Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 95,
+    "Carbs": 18,
+    "Proteins": 1,
+    "Fats": 0.2,
+    "DietaryFiber": 3,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Roast Plantains": {
+    "name": "Roast Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 81,
+    "Carbs": 20,
+    "Proteins": 3,
+    "Fats": 0.2,
+    "DietaryFiber": 2,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Unripe Plantains": {
+    "name": "Unripe Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 70,
+    "Carbs": 18,
+    "Proteins": 1,
+    "Fats": 0.1,
+    "DietaryFiber": 1.5,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Ripe Plantains": {
+    "name": "Ripe Plantains",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 70,
+    "Carbs": 19,
+    "Proteins": 0.7,
+    "Fats": 0.2,
+    "DietaryFiber": 1.9,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Unripe Plantain Porridge": {
+    "name": "Unripe Plantain Porridge",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "slices"
+    },
+    "CalorieContent": 250,
+    "Carbs": 100,
+    "Proteins": 32,
+    "Fats": 12,
+    "DietaryFiber": 12,
+    "Pairings": [
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Jollof Rice": {
+    "name": "Jollof Rice",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 70,
+    "Proteins": 12,
+    "Fats": 10,
+    "DietaryFiber": 4,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "White Rice": {
+    "name": "White Rice",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 220,
+    "Carbs": 45,
+    "Proteins": 5,
+    "Fats": 1,
+    "DietaryFiber": 2,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Ofada Rice": {
+    "name": "Ofada Rice",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 70,
+    "Proteins": 12,
+    "Fats": 10,
+    "DietaryFiber": 4,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Fried Rice": {
+    "name": "Fried Rice",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 260,
+    "Carbs": 50,
+    "Proteins": 12,
+    "Fats": 15,
+    "DietaryFiber": 5,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Rice Salad": {
+    "name": "Rice Salad",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 50,
+    "Proteins": 15,
+    "Fats": 12,
+    "DietaryFiber": 4,
+    "Pairings": [
+      "sauce",
+      "protein",
+      "green veggies",
+      "stir fried veggies",
+      "cucumber rings"
+    ]
+  },
+  "Eba": {
+    "name": "Eba",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 270,
+    "Carbs": 100,
+    "Proteins": 2,
+    "Fats": 0.5,
+    "DietaryFiber": 4,
+    "Pairings": ["soup", "protein"]
+  },
+  "Semo": {
+    "name": "Semo",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 300,
+    "Carbs": 160,
+    "Proteins": 20,
+    "Fats": 2,
+    "DietaryFiber": 10,
+    "Pairings": ["soup", "protein"]
+  },
+  "Poundo": {
+    "name": "Poundo",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 290,
+    "Carbs": 200,
+    "Proteins": 10,
+    "Fats": 2,
+    "DietaryFiber": 10,
+    "Pairings": ["soup", "protein"]
+  },
+  "Fufu": {
+    "name": "Fufu",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 80,
+    "Proteins": 4,
+    "Fats": 1,
+    "DietaryFiber": 4,
+    "Pairings": ["soup", "protein"]
+  },
+  "Amala": {
+    "name": "Amala",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 80,
+    "Proteins": 4,
+    "Fats": 1,
+    "DietaryFiber": 4,
+    "Pairings": ["soup", "protein"]
+  },
+  "Pounded Yam": {
+    "name": "Pounded Yam",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 280,
+    "Carbs": 80,
+    "Proteins": 4,
+    "Fats": 1,
+    "DietaryFiber": 6,
+    "Pairings": ["soup", "protein"]
+  },
+  "Wheat": {
+    "name": "Wheat",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 300,
+    "Carbs": 160,
+    "Proteins": 28,
+    "Fats": 4,
+    "DietaryFiber": 15,
+    "Pairings": ["soup", "protein"]
+  },
+  "Unsweetened Yogurt": {
+    "name": "Unsweetened Yogurt",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 150,
+    "Carbs": 10,
+    "Proteins": 10,
+    "Fats": 5,
+    "DietaryFiber": 0,
+    "Pairings": ["tiger nuts", "almond nuts", "groundnuts"]
+  },
+  "Skimmed Milk": {
+    "name": "Skimmed Milk",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 90,
+    "Carbs": 12,
+    "Proteins": 8,
+    "Fats": 0.5,
+    "DietaryFiber": 0,
+    "Pairings": ["tiger nuts", "almond nuts", "groundnuts"]
+  },
+  "Sweetened Yogurt": {
+    "name": "Sweetened Yogurt",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 200,
+    "Carbs": 30,
+    "Proteins": 8,
+    "Fats": 5,
+    "DietaryFiber": 1,
+    "Pairings": ["tiger nuts", "almond nuts", "groundnuts"]
+  },
+  "Mixed Fruit Salad": {
+    "name": "Mixed Fruit Salad",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 300,
+    "Carbs": 25,
+    "Proteins": 2,
+    "Fats": 3,
+    "DietaryFiber": 3,
+    "Pairings": ["Cream", "Cucumber rings"]
+  },
+  "Chicken Beef Or Turkey Coleslaw": {
+    "name": "Chicken Beef Or Turkey Coleslaw",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 430,
+    "Carbs": 20,
+    "Proteins": 80,
+    "Fats": 10,
+    "DietaryFiber": 15,
+    "Pairings": ["green veggies"]
+  },
+  "Cooked beans": {
+    "name": "Cooked beans",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 230,
+    "Carbs": 45,
+    "Proteins": 17,
+    "Fats": 2,
+    "DietaryFiber": 20,
+    "Pairings": ["sauce", "protein", "green veggies", "stir fried veggies"]
+  },
+  "Porridge beans": {
+    "name": "Porridge beans",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 40,
+    "Proteins": 15,
+    "Fats": 2,
+    "DietaryFiber": 10,
+    "Pairings": ["protein", "green veggies", "stir fried veggies"]
+  },
+  "Mashed beans or ewa goyin": {
+    "name": "Mashed beans or ewa goyin",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 235,
+    "Carbs": 40,
+    "Proteins": 15,
+    "Fats": 2,
+    "DietaryFiber": 10,
+    "Pairings": ["protein", "green veggies", "stir fried veggies"]
+  },
+  "Cooked beans salad": {
+    "name": "Cooked beans salad",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 300,
+    "Carbs": 45,
+    "Proteins": 15,
+    "Fats": 5,
+    "DietaryFiber": 12,
+    "Pairings": ["protein", "green veggies", "stir fried veggies"]
+  },
+  "Akara": {
+    "name": "Akara",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 290,
+    "Carbs": 55,
+    "Proteins": 20,
+    "Fats": 20,
+    "DietaryFiber": 10,
+    "Pairings": ["custard", "akamu", "kunu", "soy milk"]
+  },
+  "Moimoi": {
+    "name": "Moimoi",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 230,
+    "Carbs": 45,
+    "Proteins": 18,
+    "Fats": 20,
+    "DietaryFiber": 8,
+    "Pairings": ["protein", "green veggies", "stir fried veggies"]
+  },
+  "Okpa": {
+    "name": "Okpa",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "fistSize"
+    },
+    "CalorieContent": 350,
+    "Carbs": 45,
+    "Proteins": 15,
+    "Fats": 15,
+    "DietaryFiber": 6,
+    "Pairings": ["pap", "custard"]
+  },
+  "Abacha": {
+    "name": "Abacha",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 360,
+    "Carbs": 55,
+    "Proteins": 12,
+    "Fats": 18,
+    "DietaryFiber": 5,
+    "Pairings": ["protein"]
+  },
+  "Asun": {
+    "name": "Asun",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 350,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 25,
+    "DietaryFiber": 0,
+    "Pairings": ["green veggies", "stir fried veggies"]
+  },
+  "Ukwa": {
+    "name": "Ukwa",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 250,
+    "Carbs": 50,
+    "Proteins": 6,
+    "Fats": 2,
+    "DietaryFiber": 8,
+    "Pairings": ["protein"]
+  },
+  "Chicken pepper soup": {
+    "name": "Chicken pepper soup",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 350,
+    "Carbs": 25,
+    "Proteins": 25,
+    "Fats": 15,
+    "DietaryFiber": 5,
+    "Pairings": ["Agidi"]
+  },
+  "Beef pepper soup": {
+    "name": "Beef pepper soup",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 400,
+    "Carbs": 25,
+    "Proteins": 25,
+    "Fats": 20,
+    "DietaryFiber": 5,
+    "Pairings": ["Agidi"]
+  },
+  "Goatmeat pepper soup": {
+    "name": "Goatmeat pepper soup",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 300,
+    "Carbs": 25,
+    "Proteins": 25,
+    "Fats": 20,
+    "DietaryFiber": 5,
+    "Pairings": ["Agidi"]
+  },
+  "Turkeymeat pepper soup": {
+    "name": "Turkeymeat pepper soup",
+    "serving_size": {
+      "portionSizes": 0,
+      "unitOfMeasurement": "cupSize"
+    },
+    "CalorieContent": 350,
+    "Carbs": 25,
+    "Proteins": 25,
+    "Fats": 25,
+    "DietaryFiber": 5,
+    "Pairings": ["Agidi"]
+  }
+}

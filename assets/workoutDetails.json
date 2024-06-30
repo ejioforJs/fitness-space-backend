@@ -1,0 +1,58 @@
+{
+  "easyBeginer": {
+    "description": "Start your weight loss journey with easy-to-follow exercises. Listen to your body, and progressively intensify workouts as you gain comfort.",
+    "focusAreas": "Targets full-body with a special emphasis on core strengthening and cardiovascular exercises.",
+    "difficultyLevel": "Beginner",
+    "duration": 30
+  },
+  "general": {
+    "description": "Start your weight loss journey with easy-to-follow exercises. Listen to your body, and progressively intensify workouts as you gain comfort.",
+    "focusAreas": "Targets full-body with a special emphasis on core strengthening and cardiovascular exercises.",
+    "difficultyLevel": "intermediate",
+    "duration": 30
+  },
+  "diastasisRecti": {
+    "description": "Enhance your weight loss journey with targeted exercises for diastasis recti. Strengthening your core not only aids in effective weight management but also promotes overall wellness.",
+    "focusAreas": "Core strengthening - Abdominal muscles - Posture improvement",
+    "duration": 20
+  },
+  "kneeAndJointPains": {
+    "description": "Alleviate your knee and joint pains with this workout video while supporting your weight loss journey with this exercise crafted to strengthen and provide relief.",
+    "focusAreas": "Knee strengthening - Joint mobility - Low-impact exercises for pain relief",
+    "duration": 25
+  },
+  "upperBody": {
+    "description": "Tone and strengthen your upper body with this invigorating workout video. Elevate your weight loss journey by focusing on targeted exercises for your arms, shoulders, and chest, promoting overall wellness.",
+    "focusAreas": "Arms - Shoulders - Chest",
+    "difficultyLevel": "intermediate",
+    "duration": 30
+  },
+  "lowerBodyAndThigh": {
+    "description": "A well-rounded workout targeting various muscle groups.",
+    "duration": 30
+  },
+  "armsShouldersChest": {
+    "description": "Sculpt and tone your upper body with this targeted workout. Support your weight loss journey by engaging in exercises that strengthen and define your arms, shoulders, and chest, promoting overall wellness and fitness.",
+    "focusAreas": "Arms - Shoulders - Chest",
+    "difficultyLevel": "intermediate",
+    "duration": 30
+  },
+  "glutesLegWorkout": {
+    "description": "Shape and strengthen your glutes and legs with targeted exercises that complement your weight loss journey. Boost overall wellness by incorporating this workout to enhance lower body strength.",
+    "focusAreas": "Glutes - Legs",
+    "difficultyLevel": "intermediate",
+    "duration": 30
+  },
+  "bellyFat": {
+    "description": "Blast away stubborn belly fat with this workout designed to accelerate your weight loss journey. Engage in exercises that focus on your core, promoting overall wellness and helping you achieve your fitness goals.",
+    "focusAreas": "Core Abdominal Muscles",
+    "difficultyLevel": "intermediate",
+    "duration": 30
+  },
+  "advancedWorkout": {
+    "description": "This is an advanced level workout for people already working out 3 - 5 times a week. Listen to your body, and progressively intensify workouts as you gain comfort.",
+    "focusAreas": "Targets full-body with a special emphasis on core strengthening and cardiovascular exercises.",
+    "difficultyLevel": "advanced",
+    "duration": 30
+  }
+}

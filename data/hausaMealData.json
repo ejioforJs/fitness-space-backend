@@ -1,0 +1,178 @@
+{
+    "Tuwo masara + miyan kuka": {
+        "name": "Tuwo masara + miyan kuka",
+        "CalorieContent": 550,
+        "Carbs": 20,
+        "Proteins": 8,
+        "Fats": 9,
+        "DietaryFiber":25
+    },
+    "Tuwon shinkafa + miyan taushe with meat or fish and vegetables": {
+        "name": "Tuwon shinkafa + miyan taushe with meat or fish and vegetables",
+        "CalorieContent": 560,
+        "Carbs": 17,
+        "Proteins": 15,
+        "Fats": 10,
+        "DietaryFiber":23
+    },
+    "Dambu and kuli kuli": {
+        "name": "Dambu and kuli kuli",
+        "CalorieContent": 490,
+        "Carbs": 12,
+        "Proteins": 16,
+        "Fats": 10,
+        "DietaryFiber":25
+    },
+    "Dan wake garnished with cabbage sauce, vegetables or chili pepper": {
+        "name": "Dan wake garnished with cabbage sauce, vegetables or chili pepper",
+        "CalorieContent": 520,
+        "Carbs": 15,
+        "Proteins": 10,
+        "Fats": 7,
+        "DietaryFiber":15
+    },
+    "Dambu shinkafa + chopped tomatoes, vegetables and 1 boiled egg": {
+        "name": "Dambu shinkafa + chopped tomatoes, vegetables and 1 boiled egg",
+        "CalorieContent": 545,
+        "Carbs": 10,
+        "Proteins": 12,
+        "Fats": 5,
+        "DietaryFiber":25
+    },
+    "Pate cooked leafy green veggies, chopped tomatoes, onions and meats": {
+        "name": "Pate cooked leafy green veggies, chopped tomatoes, onions and meats",
+        "CalorieContent": 540,
+        "Carbs": 12,
+        "Proteins": 10,
+        "Fats": 4,
+        "DietaryFiber":15
+    },
+    "Danbun kaza (chicken floss) + 1 glass of kunu": {
+        "name": "Danbun kaza (chicken floss) + 1 glass of kunu",
+        "CalorieContent": 530,
+        "Carbs": 9,
+        "Proteins": 23,
+        "Fats": 10,
+        "DietaryFiber":23
+    },
+    "Danmbu nama + 1 glass of kunu and kuli kuli": {
+        "name": "Danmbu nama + 1 glass of kunu and kuli kuli",
+        "CalorieContent": 510,
+        "Carbs": 10,
+        "Proteins": 25,
+        "Fats": 12,
+        "DietaryFiber":20
+    },
+    "Kwadun zogale(moringa salat) with fresh onions and tomatoes": {
+        "name": "Kwadun zogale(moringa salat) with fresh onions and tomatoes",
+        "CalorieContent": 450,
+        "Carbs": 7,
+        "Proteins": 9,
+        "Fats": 5,
+        "DietaryFiber":25
+    },
+    "Masa + miyan aleiyaho with vegetables": {
+        "name": "Masa + miyan aleiyaho with vegetables",
+        "CalorieContent": 500,
+        "Carbs": 15,
+        "Proteins": 8,
+        "Fats": 10,
+        "DietaryFiber":15
+    },
+    "Dan wake + mai and yaje + chicken or beef": {
+        "name": "Dan wake + mai and yaje + chicken or beef",
+        "CalorieContent": 500,
+        "Carbs": 15,
+        "Proteins": 15,
+        "Fats": 12,
+        "DietaryFiber":15
+    },
+    "Tuwan gero da miya kubewa": {
+        "name": "Tuwan gero da miya kubewa",
+        "CalorieContent": 500,
+        "Carbs": 20,
+        "Proteins": 6,
+        "Fats": 10,
+        "DietaryFiber":17
+    },
+    "Dambun shinfafa": {
+        "name": "Dambun shinfafa",
+        "CalorieContent": 540,
+        "Carbs": 20,
+        "Proteins": 7,
+        "Fats": 8,
+        "DietaryFiber":12
+    },
+    "Kunun shinkafa": {
+        "name": "Kunun shinkafa",
+        "CalorieContent": 500,
+        "Carbs": 8,
+        "Proteins": 20,
+        "Fats": 5,
+        "DietaryFiber":4
+    },
+    "Garau Garau with veggies, fresh tomotoes": {
+        "name": "Garau Garau with veggies, fresh tomotoes",
+        "CalorieContent": 450,
+        "Carbs": 5,
+        "Proteins": 12,
+        "Fats": 12,
+        "DietaryFiber":15
+    },
+    "Miyan zogale + tuwon masara": {
+        "name": "Miyan zogale + tuwon masara",
+        "CalorieContent": 500,
+        "Carbs": 14,
+        "Proteins": 13,
+        "Fats": 5,
+        "DietaryFiber":19
+    },
+    "Tuwon shinkafa + Miyan taushe": {
+        "name": "Tuwon shinkafa + Miyan taushe",
+        "CalorieContent": 510,
+        "Carbs": 12,
+        "Proteins": 12,
+        "Fats": 4,
+        "DietaryFiber":17
+    },
+    "Tuwon dawa + Miyan karkashi": {
+        "name": "Tuwon dawa + Miyan karkashi",
+        "CalorieContent": 520,
+        "Carbs": 13,
+        "Proteins": 10,
+        "Fats": 9,
+        "DietaryFiber":22
+    },
+    "Tuwon alabo and Miyan karkashi": {
+        "name": "Tuwon alabo and Miyan karkashi",
+        "CalorieContent": 535,
+        "Carbs": 10,
+        "Proteins": 8,
+        "Fats": 11,
+        "DietaryFiber":21
+    },
+    "Kalalalaba/wainan flour": {
+        "name": "Kalalalaba/wainan flour",
+        "CalorieContent": 495,
+        "Carbs": 10,
+        "Proteins": 6,
+        "Fats": 15,
+        "DietaryFiber":13
+    },
+    "Miyan kuka with tuwon masara": {
+        "name": "Miyan kuka with tuwon masara",
+        "CalorieContent": 500,
+        "Carbs": 16,
+        "Proteins": 7,
+        "Fats": 16,
+        "DietaryFiber":14
+    },
+    "Tuwon shinkafa with miyan yaushe": {
+        "name": "Tuwon shinkafa with miyan yaushe",
+        "CalorieContent": 550,
+        "Carbs": 10,
+        "Proteins": 8,
+        "Fats": 12,
+        "DietaryFiber":9
+    }
+}

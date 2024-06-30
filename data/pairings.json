@@ -1,0 +1,578 @@
+{
+  "Green veggies(spinach,ugu,uziza,uta iyere,efo tete)": {
+    "name": "Green veggies(spinach,ugu,uziza,uta iyere,efo tete)",
+    "serving size": 300,
+    "CalorieContent": 90,
+    "Carbs": 11,
+    "Proteins": 8,
+    "Fats": 1.4,
+    "DietaryFiber": 8
+  },
+  "Stir fried veggies(Cabbage,chopped carrots,green beans,fresh tomatoes,bell pepper)": {
+    "name": "Stir fried veggies(Cabbage,chopped carrots,green beans,fresh tomatoes,bell pepper)",
+    "serving size": 150,
+    "CalorieContent": 100,
+    "Carbs": 10,
+    "Proteins": 2,
+    "Fats": 1,
+    "DietaryFiber": 4
+  },
+  "Nsala soup": {
+    "name": "Nsala soup",
+    "serving size": 200,
+    "CalorieContent": 100,
+    "Carbs": 10,
+    "Proteins": 25,
+    "Fats": 10,
+    "DietaryFiber": 12
+  },
+  "Bitterleaf soup": {
+    "name": "Bitterleaf soup",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 10,
+    "Proteins": 25,
+    "Fats": 25,
+    "DietaryFiber": 5
+  },
+  "Draw soup": {
+    "name": "Draw soup",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 10,
+    "Proteins": 25,
+    "Fats": 25,
+    "DietaryFiber": 5
+  },
+  "Vegetable soup": {
+    "name": "Vegetable soup",
+    "serving size": 200,
+    "CalorieContent": 100,
+    "Carbs": 19,
+    "Proteins": 25,
+    "Fats": 14,
+    "DietaryFiber": 6
+  },
+  "Groundnut soup": {
+    "name": "Groundnut soup",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 10,
+    "Proteins": 25,
+    "Fats": 25,
+    "DietaryFiber": 5
+  },
+  "Efo riro soup": {
+    "name": "Efo riro soup",
+    "serving size": 200,
+    "CalorieContent": 100,
+    "Carbs": 20,
+    "Proteins": 24,
+    "Fats": 15,
+    "DietaryFiber": 5
+  },
+  "Ewedu soup": {
+    "name": "Ewedu soup",
+    "serving size": 200,
+    "CalorieContent": 105,
+    "Carbs": 19,
+    "Proteins": 25,
+    "Fats": 13,
+    "DietaryFiber": 7
+  },
+  "Egusi soup": {
+    "name": "Egusi soup",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 20,
+    "Proteins": 21,
+    "Fats": 30,
+    "DietaryFiber": 3
+  },
+  "Afang soup": {
+    "name": "Afang soup",
+    "serving size": 200,
+    "CalorieContent": 130,
+    "Carbs": 20,
+    "Proteins": 25,
+    "Fats": 13,
+    "DietaryFiber": 7
+  },
+  "Okro soup": {
+    "name": "Okro soup",
+    "serving size": 200,
+    "CalorieContent": 123,
+    "Carbs": 20,
+    "Proteins": 25,
+    "Fats": 10,
+    "DietaryFiber": 6
+  },
+  "Edika ikong soup": {
+    "name": "Edika ikong soup",
+    "serving size": 200,
+    "CalorieContent": 110,
+    "Carbs": 20,
+    "Proteins": 24,
+    "Fats": 9,
+    "DietaryFiber": 5
+  },
+  "Banga soup": {
+    "name": "Banga soup",
+    "serving size": 200,
+    "CalorieContent": 105,
+    "Carbs": 19,
+    "Proteins": 25,
+    "Fats": 13,
+    "DietaryFiber": 7
+  },
+  "Tomato egg and fried veggies sauce Fried with minimal vegetable oil": {
+    "name": "Tomato egg and fried veggies sauce Fried with minimal vegetable oil",
+    "serving size": 200,
+    "CalorieContent": 150,
+    "Carbs": 10,
+    "Proteins": 8,
+    "Fats": 7,
+    "DietaryFiber": 3
+  },
+  "Garden eggs sauce with fresh tomatoes and carrots cucumbers bell pepper fried with minimal oil": {
+    "name": "Garden eggs sauce with fresh tomatoes and carrots cucumbers bell pepper fried with minimal oil",
+    "serving size": 200,
+    "CalorieContent": 150,
+    "Carbs": 15,
+    "Proteins": 3,
+    "Fats": 3,
+    "DietaryFiber": 5
+  },
+  "Fresh tomatoes sauce with green veggies fried with minimal oil": {
+    "name": "Fresh tomatoes sauce with green veggies fried with minimal oil",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 10,
+    "Proteins": 3,
+    "Fats": 5,
+    "DietaryFiber": 4
+  },
+  "Fresh tomatoes sauce fried with minimal oil": {
+    "name": "Fresh tomatoes sauce fried with minimal oil",
+    "serving size": 200,
+    "CalorieContent": 100,
+    "Carbs": 10,
+    "Proteins": 3,
+    "Fats": 5,
+    "DietaryFiber": 3
+  },
+  "Fresh egg sauce fried with minimal oil": {
+    "name": "Fresh egg sauce fried with minimal oil",
+    "serving size": 200,
+    "CalorieContent": 120,
+    "Carbs": 10,
+    "Proteins": 8,
+    "Fats": 5,
+    "DietaryFiber": 2
+  },
+  "Agidi": {
+    "name": "Agidi",
+    "serving size": 150,
+    "CalorieContent": 150,
+    "Carbs": 30,
+    "Proteins": 5,
+    "Fats": 2,
+    "DietaryFiber": 2
+  },
+  "Pap/akamu": {
+    "name": "Pap",
+    "serving size": 50,
+    "CalorieContent": 150,
+    "Carbs": 30,
+    "Proteins": 2,
+    "Fats": 1,
+    "DietaryFiber": 1
+  },
+  "Cream": {
+    "name": "Cream",
+    "serving size": 50,
+    "CalorieContent": 150,
+    "Carbs": 30,
+    "Proteins": 2,
+    "Fats": 1,
+    "DietaryFiber": 1
+  },
+  "Custard": {
+    "name": "Custard",
+    "CalorieContent": 180,
+    "Carbs": 35,
+    "Proteins": 5,
+    "Fats": 2,
+    "DietaryFiber": 1
+  },
+
+  "Kunu": {
+    "name": "Kunu",
+    "serving size": 50,
+    "CalorieContent": 200,
+    "Carbs": 30,
+    "Proteins": 6,
+    "Fats": 3,
+    "DietaryFiber": 3
+  },
+  "soy milk": {
+    "name": "Soy milk",
+    "serving size": 50,
+    "CalorieContent": 200,
+    "Carbs": 8,
+    "Proteins": 10,
+    "Fats": 10,
+    "DietaryFiber": 2
+  },
+  "Avocado": {
+    "name": "Avocado",
+    "serving size": 50,
+    "CalorieContent": 150,
+    "Carbs": 30,
+    "Proteins": 5,
+    "Fats": 2,
+    "DietaryFiber": 2
+  },
+  "Cucumber rings": {
+    "name": "Cucumber rings",
+    "serving size": 50,
+    "CalorieContent": 50,
+    "Carbs": 5,
+    "Proteins": 1,
+    "Fats": 0.1,
+    "DietaryFiber": 2
+  },
+  "Mixed fruits": {
+    "name": "Mixed fruits",
+    "serving size": 50,
+    "CalorieContent": 150,
+    "Carbs": 25,
+    "Proteins": 2,
+    "Fats": 1,
+    "DietaryFiber": 4
+  },
+  "Tiger nuts": {
+    "name": "Tiger nuts",
+    "serving size": 150,
+    "CalorieContent": 100,
+    "Carbs": 12,
+    "Proteins": 7,
+    "Fats": 14,
+    "DietaryFiber": 3
+  },
+  "Almond nuts": {
+    "name": "Almond nuts",
+    "serving size": 150,
+    "CalorieContent": 100,
+    "Carbs": 12,
+    "Proteins": 7,
+    "Fats": 14,
+    "DietaryFiber": 3
+  },
+  "Groundnuts": {
+    "name": "Groundnuts",
+    "serving size": 150,
+    "CalorieContent": 100,
+    "Carbs": 12,
+    "Proteins": 7,
+    "Fats": 14,
+    "DietaryFiber": 3
+  },
+  "Cooked beef(protein)": {
+    "name": "Cooked beef(protein)",
+    "serving size": 100,
+    "CalorieContent": 135,
+    "Carbs": 0,
+    "Proteins": 21,
+    "Fats": 15,
+    "DietaryFiber": 0
+  },
+  "Fried beef(protein)": {
+    "name": "Fried beef(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 0,
+    "Proteins": 26,
+    "Fats": 22,
+    "DietaryFiber": 0
+  },
+  "Grilled beef(protein)": {
+    "name": "Grilled beef(protein)",
+    "serving size": 100,
+    "CalorieContent": 120,
+    "Carbs": 0,
+    "Proteins": 27,
+    "Fats": 16,
+    "DietaryFiber": 0
+  },
+  "Roast beef(protein)": {
+    "name": "Roast beef(protein)",
+    "serving size": 100,
+    "CalorieContent": 130,
+    "Carbs": 0,
+    "Proteins": 27,
+    "Fats": 16,
+    "DietaryFiber": 0
+  },
+  "Beef jerky(protein)": {
+    "name": "Beef jerky(protein)",
+    "serving size": 100,
+    "CalorieContent": 120,
+    "Carbs": 12,
+    "Proteins": 33,
+    "Fats": 26,
+    "DietaryFiber": 0
+  },
+  "Stir fried beef(protein)": {
+    "name": "Stir fried beef(protein)",
+    "serving size": 100,
+    "CalorieContent": 142,
+    "Carbs": 0.2,
+    "Proteins": 30,
+    "Fats": 25,
+    "DietaryFiber": 0
+  },
+  "Boiled fish(protein)": {
+    "name": "Boiled fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 110,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Grilled fish(protein)": {
+    "name": "Grilled fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 138,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 10,
+    "DietaryFiber": 0
+  },
+  "Fried fish(protein)": {
+    "name": "Fried fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 20,
+    "Proteins": 25,
+    "Fats": 20,
+    "DietaryFiber": 0
+  },
+  "Barbecued fish(protein)": {
+    "name": "Barbecued fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 10,
+    "Proteins": 25,
+    "Fats": 15,
+    "DietaryFiber": 0
+  },
+  "Steamed fish(protein)": {
+    "name": "Steamed fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 120,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Roast fish(protein)": {
+    "name": "Roast fish(protein)",
+    "serving size": 100,
+    "CalorieContent": 110,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Boiled chicken(protein)": {
+    "name": "Boiled chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 125,
+    "Carbs": 0,
+    "Proteins": 31,
+    "Fats": 4,
+    "DietaryFiber": 0
+  },
+  "Fried chicken(protein)": {
+    "name": "Fried chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 20,
+    "Proteins": 25,
+    "Fats": 25,
+    "DietaryFiber": 0
+  },
+  "Steamed chicken(protein)": {
+    "name": "Steamed chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 110,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Grilled chicken(protein)": {
+    "name": "Grilled chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 137,
+    "Carbs": 0,
+    "Proteins": 31,
+    "Fats": 3.8,
+    "DietaryFiber": 0
+  },
+  "Barbecued chicken(protein)": {
+    "name": "Barbecued chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 3,
+    "Proteins": 30,
+    "Fats": 15,
+    "DietaryFiber": 0
+  },
+  "Roast chicken(protein)": {
+    "name": "Roast chicken(protein)",
+    "serving size": 100,
+    "CalorieContent": 125,
+    "Carbs": 0,
+    "Proteins": 30,
+    "Fats": 10,
+    "DietaryFiber": 0
+  },
+  "Boiled egg(protein)": {
+    "name": "Boiled egg(protein)",
+    "serving size": 100,
+    "CalorieContent": 80,
+    "Carbs": 0.6,
+    "Proteins": 6,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Fried egg(protein)": {
+    "name": "Fried egg(protein)",
+    "serving size": 100,
+    "CalorieContent": 100,
+    "Carbs": 0.6,
+    "Proteins": 6,
+    "Fats": 7,
+    "DietaryFiber": 0
+  },
+  "Scrambled egg(protein)": {
+    "name": "Scrambled egg(protein)",
+    "serving size": 100,
+    "CalorieContent": 120,
+    "Carbs": 1,
+    "Proteins": 14,
+    "Fats": 18,
+    "DietaryFiber": 0
+  },
+  "Cooked goatmeat(protein)": {
+    "name": "Cooked goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 120,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Roast goatmeat(protein)": {
+    "name": "Roast goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 133,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 25,
+    "DietaryFiber": 0
+  },
+  "Fried goatmeat(protein)": {
+    "name": "Fried goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 20,
+    "DietaryFiber": 0
+  },
+  "Grilled goatmeat(protein)": {
+    "name": "Grilled goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 139,
+    "Carbs": 0,
+    "Proteins": 34,
+    "Fats": 20,
+    "DietaryFiber": 0
+  },
+  "Smoked goatmeat(protein)": {
+    "name": "Smoked goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 126,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 20,
+    "DietaryFiber": 0
+  },
+  "Steamed goatmeat(protein)": {
+    "name": "Steamed goatmeat(protein)",
+    "serving size": 100,
+    "CalorieContent": 105,
+    "Carbs": 0,
+    "Proteins": 33,
+    "Fats": 20,
+    "DietaryFiber": 0
+  },
+  "Cooked pork(protein)": {
+    "name": "Cooked pork(protein)",
+    "serving size": 100,
+    "CalorieContent": 139,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Cooked turkey(protein)": {
+    "name": "Cooked turkey(protein)",
+    "serving size": 100,
+    "CalorieContent": 140,
+    "Carbs": 0,
+    "Proteins": 35,
+    "Fats": 12,
+    "DietaryFiber": 0
+  },
+  "Fried turkey(protein)": {
+    "name": "Fried turkey(protein)",
+    "serving size": 100,
+    "CalorieContent": 144,
+    "Carbs": 0,
+    "Proteins": 40,
+    "Fats": 35,
+    "DietaryFiber": 0
+  },
+  "Grilled turkey(protein)": {
+    "name": "Grilled turkey(protein)",
+    "serving size": 100,
+    "CalorieContent": 110,
+    "Carbs": 0,
+    "Proteins": 25,
+    "Fats": 5,
+    "DietaryFiber": 0
+  },
+  "Steamed turkey(protein)": {
+    "name": "Steamed turkey(protein)",
+    "serving size": 100,
+    "CalorieContent": 123,
+    "Carbs": 0,
+    "Proteins": 40,
+    "Fats": 10,
+    "DietaryFiber": 0
+  },
+  "Smoked turkey(protein)": {
+    "name": "Smoked turkey(protein)",
+    "serving size": 100,
+    "CalorieContent": 115,
+    "Carbs": 0,
+    "Proteins": 40,
+    "Fats": 10,
+    "DietaryFiber": 0
+  }
+}
