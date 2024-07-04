@@ -49,13 +49,10 @@ exports.signup = async (req, res) => {
       to: email,
       subject: "Activate your account",
       html: `
-              <h3> Hello ${name},</h3>
-              <h3> Welcome to fitness space 🪐</h3>
-              <p>We are thrilled to have you join us on this journey toward better health and wellness.</p>
-              <p>Your decision to download and register on the fitness Space app marks the beginning of an exciting adventure toward a healthier,happier you.</p>
-              <p>To ensure that you have full access to all the features and benefits our app has to offer,we kindly ask you to complete your registration by entering the following code:<span style="color: #FF5733;"> ${otpCode}</span>.</p>
-              <p>Remember,the otp code expires in the next 5 minutes ‼️</p>
-              <p>Thank you for choosing Fitness Space 🪐 and we are here to support you every step of the way🚀</p>
+              <h3> Welcome to Fitness Space!</h3>
+              <p>We’re happy to have you join us on a journey to a better and lighter YOU. Your path to a healthier, happier you begins now!</p>
+              <p>To unlock all features, please complete your registration with this code:<span style="color: #FF5733;"> ${otpCode}</span>(Expires in 5 minutes!).</p>
+              <p>Thank you for choosing Fitness Space. We’re here to support you every step of the way!</p>
             `,
     };
 
