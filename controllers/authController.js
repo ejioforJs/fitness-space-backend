@@ -51,7 +51,7 @@ exports.signup = async (req, res) => {
       html: `
               <h3> Welcome to Fitness Space!</h3>
               <p>We’re happy to have you join us on a journey to a better and lighter YOU. Your path to a healthier, happier you begins now!</p>
-              <p>To unlock all features, please complete your registration with this code:<span style="color: #FF5733;"> ${otpCode}</span>(Expires in 5 minutes!).</p>
+              <p>To unlock all features, please complete your registration with this code:<span style="color: #FF5733;"> ${otpCode} </span>(Expires in 5 minutes!).</p>
               <p>Thank you for choosing Fitness Space. We’re here to support you every step of the way!</p>
             `,
     };
