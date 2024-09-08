@@ -163,6 +163,27 @@ userSchema.pre("save", function (next) {
   next();
 });
 
+// Add another pre-save hook to initialize the healthScore for new users
+userSchema.pre("save", function(next) {
+  // Check if it's a new user
+  if (this.isNew) {
+    // Initialize healthScore array with default values
+    this.healthScore = [{
+      mealPoint: 0,
+      workoutPoint: 0,
+      fastingPoint: 0,
+      weightlossPoint: 0,
+      stepcountPoint: {
+        stepCountHistory: [],
+        stepcountPoint: 0,
+      },
+      totalPoints: 0,
+    }];
+  }
+  // Proceed to the next middleware
+  next();
+});
+
 userSchema.pre(/^find/, function (next) {
   this.find({ active: { $ne: false } });
   next();
