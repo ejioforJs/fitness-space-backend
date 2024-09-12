@@ -8,6 +8,6 @@ router.post("/mealplanPoint/:userId", healthscoreController.mealplanPoints)
 router.post("/stepcountPoint", healthscoreController.stepcountPoints)
 router.post("/workoutPoint/:userId", healthscoreController.workoutPoints)
 router.post("/weightlossPoint/:userId", healthscoreController.weightlossPoints)
-router.get("/getHealthScore/:userId", healthscoreController.createHealthScoreEntry)
+router.get("/calculateHealthScore/:userId", healthscoreController.calculateHealthScore)
 
 module.exports = router
